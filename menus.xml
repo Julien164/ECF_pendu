@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd"[]>
+<menus>
+    <menu categorie="fichiers">
+        <lien>
+            <label>Nouvelle partie</label>
+            <command>app.new_game</command>
+        </lien>
+        <lien>
+            <label>Niveaux / thèmes</label>
+            <command>app.edit_themes</command>
+        </lien>
+        <lien>
+            <label>Apparence</label>
+            <command>app.change_appearance</command>
+        </lien>
+        <lien>
+            <label>Quitter</label>
+            <command>app.quit</command>
+        </lien>
+    </menu>
+    <menu categorie="édition">
+        <lien>
+            <label>Editer les mots</label>
+            <command>app.edit_words</command>
+        </lien>
+        <lien>
+            <label>Editer les niveaux</label>
+            <command>app.edit_levels</command>
+        </lien>
+    </menu>
+    <menu categorie="aide">
+        <lien>
+            <label>A propos</label>
+            <command>app.show_about</command>
+        </lien>
+    </menu>
+</menus>
+

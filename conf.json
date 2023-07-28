@@ -1,0 +1,30 @@
+{
+    "canevas": "yellow",
+    "letters": {
+        "active": "white",
+        "used": "grey",
+        "border": "black"
+    },
+    "line": {
+        "color": "black",
+        "width": 2
+    },
+    "theme": 1,
+    "themes": {
+        "1": "Developpeur",
+        "2": "Designer",
+        "3": "Custom"
+    },
+    "custom": {
+        "canevas": "lightblue",
+        "letters": {
+            "active": "green",
+            "used": "orange",
+            "border": "purple"
+        },
+        "line": {
+            "color": "red",
+            "width": 3
+        }
+    }
+}
